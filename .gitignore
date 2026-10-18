@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node
+node_modules/
+dist/
+
+# Generated at runtime
+backend/uploads/
+backend/slide_images/
+backend/gemini_cache/
+backend/speech.mp3
+
+# Editor
+.vscode/

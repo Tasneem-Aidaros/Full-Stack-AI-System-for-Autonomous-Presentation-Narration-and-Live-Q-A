@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+google-genai
+pillow
+python-pptx
+pywin32
+edge-tts
+pygame
+SpeechRecognition
